@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,29 +207,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="644" y="170" width="374" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1601207116161">
+    <state x="644" y="170" width="374" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1601209037661">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state x="644" y="170" width="374" height="594" key="#com.intellij.ide.util.MemberChooser/72.27.1528.873@72.27.1528.873" timestamp="1601207116161" />
+    <state x="644" y="170" width="374" height="594" key="#com.intellij.ide.util.MemberChooser/72.27.1528.873@72.27.1528.873" timestamp="1601209037661" />
     <state x="680" y="355" width="302" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601206710162">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
     <state x="680" y="355" width="302" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/72.27.1528.873@72.27.1528.873" timestamp="1601206710162" />
-    <state width="762" height="302" key="GridCell.Tab.0.bottom" timestamp="1601208456610">
+    <state width="1482" height="306" key="GridCell.Tab.0.bottom" timestamp="1601208734236">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="762" height="302" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1601208456610" />
-    <state width="762" height="302" key="GridCell.Tab.0.center" timestamp="1601208456609">
+    <state width="1482" height="306" key="GridCell.Tab.0.bottom/72.27.1528.873@72.27.1528.873" timestamp="1601208734236" />
+    <state width="1482" height="306" key="GridCell.Tab.0.center" timestamp="1601208734235">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="762" height="302" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1601208456609" />
-    <state width="762" height="302" key="GridCell.Tab.0.left" timestamp="1601208456608">
+    <state width="1482" height="306" key="GridCell.Tab.0.center/72.27.1528.873@72.27.1528.873" timestamp="1601208734235" />
+    <state width="1482" height="306" key="GridCell.Tab.0.left" timestamp="1601208734234">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="762" height="302" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1601208456608" />
-    <state width="762" height="302" key="GridCell.Tab.0.right" timestamp="1601208456609">
+    <state width="1482" height="306" key="GridCell.Tab.0.left/72.27.1528.873@72.27.1528.873" timestamp="1601208734234" />
+    <state width="1482" height="306" key="GridCell.Tab.0.right" timestamp="1601208734236">
       <screen x="72" y="27" width="1528" height="873" />
     </state>
-    <state width="762" height="302" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1601208456609" />
+    <state width="1482" height="306" key="GridCell.Tab.0.right/72.27.1528.873@72.27.1528.873" timestamp="1601208734236" />
   </component>
 </project>
